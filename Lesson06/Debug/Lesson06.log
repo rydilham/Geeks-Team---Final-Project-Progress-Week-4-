@@ -1,0 +1,20 @@
+﻿  Demo.cpp
+C:\Users\Lenovo\Downloads\Grafika Komputer dan Visualisasi new\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Lenovo\Downloads\Grafika Komputer dan Visualisasi new\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(402,47): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\Lenovo\Downloads\Grafika Komputer dan Visualisasi new\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(402,47): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lenovo\Downloads\Grafika Komputer dan Visualisasi new\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(412,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Lenovo\Downloads\Grafika Komputer dan Visualisasi new\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(417,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Lenovo\Downloads\Grafika Komputer dan Visualisasi new\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(422,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Lenovo\Downloads\Grafika Komputer dan Visualisasi new\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(436,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Lenovo\Downloads\Grafika Komputer dan Visualisasi new\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(441,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Lenovo\Downloads\Grafika Komputer dan Visualisasi new\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(446,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Lenovo\Downloads\Grafika Komputer dan Visualisasi new\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(526,76): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Lenovo\Downloads\Grafika Komputer dan Visualisasi new\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(543,75): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Lenovo\Downloads\Grafika Komputer dan Visualisasi new\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(557,77): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Lenovo\Downloads\Grafika Komputer dan Visualisasi new\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(571,77): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Lenovo\Downloads\Grafika Komputer dan Visualisasi new\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(585,77): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Lenovo\Downloads\Grafika Komputer dan Visualisasi new\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(599,77): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Lenovo\Downloads\Grafika Komputer dan Visualisasi new\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(614,77): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Lenovo\Downloads\Grafika Komputer dan Visualisasi new\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(628,77): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Lenovo\Downloads\Grafika Komputer dan Visualisasi new\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(687,72): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Lesson06.vcxproj -> C:\Users\Lenovo\Downloads\Grafika Komputer dan Visualisasi new\Grafika Komputer dan Visualisasi\vs\Debug\Lesson06.exe
